@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "676cacb4a6b86e1d1aa9b5ff"
+  },
+  "Judul_Gambar": "The starry night",
+  "Deskripsi_Gambar": "pemandangan desa dengan dengan bintang dan bulan",
+  "Format_Gambar": "jpg",
+  "Jenis_media": "Lukisan di kanvas",
+  "Pelukis": "Vincent van gogh",
+  "Tahun_pembuatan": 1889
+}]
